@@ -4,7 +4,7 @@ Este proyecto demuestra la implementación de un sistema backend basado en una a
 
 ## Tecnologías Utilizadas
 * **Java 17 (LTS)**
-* **Spring Boot  (REST API)
+* **Spring Boot**  (REST API)
 * **API de Reflexión Nativa** (`java.lang.reflect`)
 * **Motor Groovy** (`javax.script.ScriptEngine`)
 * **RestTemplate** (Consumo de servicios externos)
